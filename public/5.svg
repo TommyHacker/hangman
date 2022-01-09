@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 487 459" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Artboard1" transform="matrix(0.855246,0,0,0.932515,-32.8704,-73.1809)">
+        <rect x="38.434" y="78.477" width="568.301" height="492.075" style="fill:none;"/>
+        <g id="noose">
+            <g id="noose1" serif:id="noose" transform="matrix(1.16925,0,0,1.07237,-59.8276,-13.2612)">
+                <g id="roof" transform="matrix(-0.375,4.59243e-17,-1.02593e-16,-0.837736,543.443,530.35)">
+                    <path d="M115.849,323.615C115.849,322.87 114.496,322.264 112.83,322.264L106.792,322.264C105.126,322.264 103.774,322.87 103.774,323.615L103.774,520.913C103.774,521.659 105.126,522.264 106.792,522.264L112.83,522.264C114.496,522.264 115.849,521.659 115.849,520.913L115.849,323.615Z" style="fill:rgb(171,109,109);"/>
+                </g>
+                <g transform="matrix(1.03153,0,0,1,-15.8246,0)">
+                    <path d="M521.137,101.74C519.097,102.904 516.476,103.605 513.619,103.605C507.123,103.605 501.85,99.984 501.85,95.523C501.85,91.063 507.123,87.441 513.619,87.441C517.113,87.441 520.253,88.489 522.409,90.151L515.448,90.151L515.448,101.74L521.137,101.74Z" style="fill:rgb(171,109,109);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.768545,0,0,1.07237,305.562,6.28806)">
+                <ellipse cx="288.525" cy="257.791" rx="19.804" ry="19.321" style="fill:none;stroke:rgb(171,109,109);stroke-width:5.84px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
